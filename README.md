@@ -7,7 +7,7 @@ Exercise to practice built-in React hooks: useState, useEffect and useRef:
 
 Timer app counts down from 60 seconds with ability to start/stop and reset the timer. 
 
-<img src="./timer.gif">
+<img src="./static/timer.gif">
 
 ### Upcoming Features
 - Ability to set the timer and adjust by increasing or decreasing time left
